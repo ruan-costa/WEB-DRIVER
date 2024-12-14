@@ -38,10 +38,10 @@ driver.quit()
 
 Abaixo está um exemplo da estrutura de pastas e arquivos deste projeto:
 
-.
-├── webdriver.py                # Script para gerenciamento do WebDriver
-├── profilenavegador/           # Pasta que armazena o perfil do navegador (não deve ser apagada)
-└── README.md                   # Este arquivo README
+
+├── webdriver.py                # Script para gerenciamento do WebDriver  
+├── profilenavegador/           # Pasta que armazena o perfil do navegador (não deve ser apagada)  
+└── README.md                   # Este arquivo README  
 
 📝 Detalhes do Arquivo webdriver.py
 
