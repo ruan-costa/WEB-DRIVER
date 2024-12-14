@@ -1,4 +1,4 @@
-Automação de Download de Bases Simplic - Módulo webdriver.py
+'''Automação de Download de Bases Simplic - Módulo webdriver.py
 
 
 
@@ -77,6 +77,6 @@ Se tiver dúvidas, entre em contato:
 
 Email: ruan.xxx1@gmail.com
 Tel: 81 9918-44940
-
+'''
 
 
